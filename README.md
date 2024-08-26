@@ -10,7 +10,18 @@
 
 
 ## Summary
-**URLSession:** 
-  - Built-in, flexible, requires more code, More control but requires more setup, good for custom and low-level network tasks
-**Alamofire:**
-  -Third-party, simplifies networking, includes features like JSON decoding, Simplifies requests and response handling with concise syntax, error handling, and easier syntax, ideal for complex tasks and quick development. 
+#### URLSession: 
+  - Built-in
+  - flexible
+  - requires more code
+  - More control but requires more setup
+  - good for custom and low-level network tasks
+    
+#### Alamofire:
+  - Third-party
+  - simplifies networking
+  - includes features like JSON decoding
+  - Simplifies requests and response handling with concise syntax
+  - error handling
+  - easier syntax
+  - ideal for complex tasks and quick development
