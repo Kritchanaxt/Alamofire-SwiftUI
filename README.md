@@ -1,35 +1,14 @@
 # Alamofire Vs URLSession
 
 ## URLSession Example
-let url = URL(string: "https://api.example.com/data")!
-let task = URLSession.shared.dataTask(with: url) { data, response, error in
-    if let error = error {
-        print("Error: \(error.localizedDescription)")
-        return
-    }
-    guard let data = data else {
-        print("No data received")
-        return
-    }
-    do {
-        let decodedData = try JSONDecoder().decode([MyModel].self, from: data)
-        print(decodedData)
-    } catch {
-        print("Decoding error: \(error)")
-    }
-}
-task.resume()
+<img>
+![image](https://github.com/user-attachments/assets/7e9818fd-96af-4785-bf52-01e7699167e8)
+
 
 
 ## Alamofire Example
-AF.request("https://api.example.com/data").responseDecodable(of: [MyModel].self) { response in
-    switch response.result {
-    case .success(let decodedData):
-        print(decodedData)
-    case .failure(let error):
-        print("Error: \(error.localizedDescription)")
-    }
-}
+![image](https://github.com/user-attachments/assets/933db20c-587a-430a-9e01-62aa7326e408)
+
 
 ## Summary
 **URLSession:** 
