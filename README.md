@@ -1,6 +1,6 @@
 # Alamofire Vs URLSession
 
-## URLSession Example
+## 🔬 URLSession Example
 ![image](https://github.com/user-attachments/assets/7e9818fd-96af-4785-bf52-01e7699167e8)
 
 ### URLSession: 
@@ -10,7 +10,7 @@
   - More control but requires more setup
   - good for custom and low-level network tasks
 
-## Alamofire Example
+## 🔭 Alamofire Example
 ![image](https://github.com/user-attachments/assets/933db20c-587a-430a-9e01-62aa7326e408)
 
 ### Alamofire:
