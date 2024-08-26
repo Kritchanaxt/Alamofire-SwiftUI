@@ -4,7 +4,6 @@
 ![image](https://github.com/user-attachments/assets/7e9818fd-96af-4785-bf52-01e7699167e8)
 
 ### Summary:
-  - Built-in
   - flexible
   - requires more code
   - More control but requires more setup
