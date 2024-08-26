@@ -1,7 +1,6 @@
 # Alamofire Vs URLSession
 
 ## URLSession Example
-<img>
 ![image](https://github.com/user-attachments/assets/7e9818fd-96af-4785-bf52-01e7699167e8)
 
 
