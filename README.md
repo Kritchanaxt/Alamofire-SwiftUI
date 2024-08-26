@@ -14,7 +14,6 @@
 ![image](https://github.com/user-attachments/assets/933db20c-587a-430a-9e01-62aa7326e408)
 
 ### Alamofire:
-  - Third-party
   - simplifies networking
   - includes features like JSON decoding
   - Simplifies requests and response handling with concise syntax
